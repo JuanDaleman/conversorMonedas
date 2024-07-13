@@ -28,7 +28,7 @@ Luego se puede escoger entre las monedas y realizar la conversión del monto des
 
 
 ## Autor
-Desarrollado por Tu Juan D'Aleman.
+Desarrollado por Juan D'Aleman.
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
